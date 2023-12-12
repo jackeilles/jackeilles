@@ -6,22 +6,27 @@
 
 <h2>Hello! :wave: I'm Jack Eilles.</h2>
 <p>A Software and Web Developer based in the North East of England.</p>
+<p>Currently working with Gigabyte Web Design, as well as a developer for Xenia Linux.</p>
 
-###
+---
 
 <div align="center">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="50">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firefox/firefox-plain.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="50">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gentoo/gentoo-plain.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="50">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="50">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/javascript/javascript-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/android/android-original.svg" height="50">
 </div>
 
-
+---
 
 
 
