@@ -32,9 +32,14 @@
 <h2>Projects</h2>
 <p>I'm currently working on a few different projects: </p>
 <table>
-  <tr>
+  <tr align="center">
     <td><img src="scalable.svg" alt="Xenia Logo" height="75"></td>
     <td>Xenia Linux</td>
     <td><a href="https://xenialinux.com">xenialinux.com</a></td>
+  </tr>
+  <tr align="center">
+    <td><img src="xygt.png" alt="xygt Logo" height="75"></td>
+    <td>xygt</td>
+    <td><a href="https://xygt.cc">xygt.cc</a></td>
   </tr>
 </table>
