@@ -4,7 +4,7 @@
 
 ---
 
-<h2>Hello! :wave: I'm Jack Eilles.</h2>
+<h1 align="center">Hello! :wave: I'm Jack Eilles.</h1>
 <p>A Software and Web Developer based in the North East of England.</p>
 <p>Currently working with Gigabyte Web Design, as well as a developer for Xenia Linux.</p>
 
@@ -15,6 +15,7 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/flask/flask-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firefox/firefox-plain.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="50">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/linux/linux-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/gentoo/gentoo-plain.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/css3/css3-original.svg" height="50">
@@ -28,19 +29,8 @@
 
 ---
 
-
-
-<!--
-**jackeilles/jackeilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
-Here are some ideas to get you started:
-
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<h2>Projects</h2>
+<p>I'm currently working on a few different projects: </p>
+<ul>
+  <li><img src="xenia.pmg" alt=Xenia Logo"> Xenia Linux</li>
+</ul>
