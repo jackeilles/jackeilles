@@ -13,7 +13,8 @@
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/python/python-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/firefox/firefox-plain.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bash/bash-original.svg" height="50">
-  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/html5/html5-original.svg" height="50">
+  <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/bootstrap/bootstrap-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/php/php-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/cplusplus/cplusplus-original.svg" height="50">
   <img src="https://github.com/devicons/devicon/blob/v2.15.1/icons/c/c-original.svg" height="50">
