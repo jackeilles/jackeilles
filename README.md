@@ -31,6 +31,10 @@
 
 <h2>Projects</h2>
 <p>I'm currently working on a few different projects: </p>
-<ul>
-  <li><img src="xenia.pmg" alt=Xenia Logo"> Xenia Linux</li>
-</ul>
+<table>
+  <tr>
+    <td><img src="scalable.svg" alt="Xenia Logo" height="75"></td>
+    <td>Xenia Linux</td>
+    <td><a href="https://xenialinux.com">xenialinux.com</a></td>
+  </tr>
+</table>
