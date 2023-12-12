@@ -1,4 +1,6 @@
-### Hi there 👋
+![banner.png](banner.png)
+
+### Hello :wave:
 
 <!--
 **jackeilles/jackeilles** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
