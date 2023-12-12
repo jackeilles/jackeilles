@@ -1,0 +1,41 @@
+<svg version="1.2" xmlns="http://www.w3.org/2000/svg" viewBox="0 0 5000 5000" width="5000" height="5000">
+	<title>xenia logo</title>
+	<style>
+		.s0 { opacity: .5;fill: #ff780b } 
+		.s1 { fill: #ff780b } 
+		.s2 { fill: #000000 } 
+		.s3 { opacity: .8;fill: #ff780b } 
+		.s4 { opacity: .9;fill: #ff780b } 
+	</style>
+	<path id="Shape 34" class="s0" d="m1939 3060l1209 198 121 291"/>
+	<path id="Shape 35" class="s0" d="m3549 4285l-269-670-835-330"/>
+	<path id="Shape 28" class="s1" d="m3874 2191l-648 1038 414 1092"/>
+	<path id="Shape 29" class="s0" d="m3094 3211l-1008-318-180 126"/>
+	<path id="Shape 30" class="s1" d="m3922 2227l-240 2082 390-876"/>
+	<path id="Shape 1" class="s2" d=""/>
+	<path id="Shape 2" class="s1" d="m1894 2971l-174-258"/>
+	<path id="Shape 3" class="s0" d="m2002 2911l-126 78-180-258"/>
+	<path id="Shape 5" class="s0" d="m724 1975l726 564 540 360-1368-1122"/>
+	<path id="Shape 6" class="s0" d="m634 1549l-18 210 1386 1140"/>
+	<path id="Shape 7" class="s0" d="m1906 2299l102 582-924-936"/>
+	<path id="Shape 8" class="s1" d="m580 1399l54 126"/>
+	<path id="Shape 9" class="s0" d="m1054 1939l-462-540 48 138"/>
+	<path id="Shape 10" class="s0" d="m1906 2281l-1284-870 444 499"/>
+	<path id="Shape 11" class="s1" d="m640 1117l960 264-996-18"/>
+	<path id="Shape 12" class="s2" d="m616 1177l-102 108 72 156"/>
+	<path id="Shape 13" class="s2" d="m870 1983"/>
+	<path id="Shape 14" class="s1" d="m1606 1405l294 828-1260-852z"/>
+	<path id="Shape 15" class="s1" d="m1648 1363l768-150"/>
+	<path id="Shape 16" class="s1" d="m1936 2197l-282-798 690-186z"/>
+	<path id="Shape 17" class="s3" d="m2050 2851l318-1614-414 990"/>
+	<path id="Shape 18" class="s3" d="m2428 1225l396-42-744 1644"/>
+	<path id="Shape 19" class="s3" d="m3142 1232l-288-36-756 1650"/>
+	<path id="Shape 20" class="s1" d="m3274 1087l-126 108 198 54"/>
+	<path id="Shape 21" class="s3" d="m3172 1273l-1056 1590 1188-1542"/>
+	<path id="Shape 22" class="s3" d="m3358 1375l468 738-654 1050"/>
+	<path id="Shape 23" class="s3" d="m3388 1303l468-354 18 1110"/>
+	<path id="Shape 26" class="s3" d="m3334 1369l-1200 1500 984 294"/>
+	<path id="Shape 36" class="s4" d="m3917 906l307-137-318 1269"/>
+	<path id="Shape 37" class="s4" d="m4488 637l-549 1423 340-1307"/>
+	<path id="Shape 38" class="s1" d="m4483 775l-511 1291 516-1110"/>
+</svg>
