@@ -38,8 +38,8 @@
     <td><a href="https://xenialinux.com">xenialinux.com</a></td>
   </tr>
   <tr align="center">
-    <td><img src="xygt.png" alt="xygt Logo" height="75"></td>
+    <td><img src="pastedsh.png" alt="xygt Logo" height="75"></td>
     <td>xygt</td>
-    <td><a href="https://xygt.cc">xygt.cc</a></td>
+    <td><a href="#">NO URL</a></td>
   </tr>
 </table>
