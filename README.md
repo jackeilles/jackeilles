@@ -39,7 +39,7 @@
   </tr>
   <tr align="center">
     <td><img src="pastedsh.png" alt="xygt Logo" height="75"></td>
-    <td>xygt</td>
+    <td>pasted.sh</td>
     <td><a href="#">NO URL</a></td>
   </tr>
 </table>
