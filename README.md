@@ -47,49 +47,7 @@
 <!-- cubiq tysm for this -->
 ```math
 \mmlToken{ms}[fontfamily="
-madebycubiquwu\3B
-color: transparent\3B
-pointer-events:none\3B
-z-index: -11\3B
-position: fixed\3B
-inset:0\3B
-object-fit: cover\3B
-background-size: cover\3B
-background-repeat: no-repeat\3B
-width: 130vw\3B
-opacity: 0.5\3B
-background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif\3B
+background-image: url('data:text/css;base64,Y29sb3I6IHRyYW5zcGFyZW50Owpwb2ludGVyLWV2ZW50czpub25lOwp6LWluZGV4OiAtMTE7CnBvc2l0aW9uOiBmaXhlZDsKaW5zZXQ6MDsKb2JqZWN0LWZpdDogY292ZXI7CmJhY2tncm91bmQtc2l6ZTogY292ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CndpZHRoOiAxMzB2dzsKb3BhY2l0eTogMC41OwpiYWNrZ3JvdW5kOiB1cmwoJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9qYWNrZWlsbGVzL2phY2tlaWxsZXMvbWFpbi9reXdBdFFjNGtpLmdpZjs=')
 "]{}
-
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-pointer-events:none;
-z-index: 999;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-backdrop-filter: saturate(2) blur(15px) brightness(0.7) opacity(1.2);
-mask-image: linear-gradient(transparent 65%, white 94%);
-background: linear-gradient(45deg, black, transparent);
-"]{}
-
-
-
-\mmlToken{ms}[fontfamily="
-madebycubiquwu;
-color: transparent;
-position: fixed;
-inset: 0;
-z-index: 1000;
-font-size: 0.420rem;
---bi: #0038a8 2em, #9b4f96 2em 3em, #d60270 3em 5em, transparent 5em;
-background-image: linear-gradient(calc(0.375turn* 5), var(--bi));
-background-repeat: no-repeat;
-pointer-events: none;
-opacity: 0.5;
-"]{}
-
 
 ```
