@@ -45,7 +45,13 @@
 </table>
 
 ```math
+\mmlToken{ms}[fontfamily="background-image:url('data:text/css,@import%20url(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)')"]{}
+```
+
+<!-- ```math
 \mmlToken{ms}[fontfamily='
 background−image:url(′data:text/css,@importurl(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)′)
 ']{}
 ```
+pls wtf
+-->
