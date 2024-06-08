@@ -47,7 +47,6 @@
 <!-- cubiq tysm for this -->
 ```math
 \mmlToken{ms}[fontfamily="
-background-image: url('data:text/css;base64,Y29sb3I6IHRyYW5zcGFyZW50Owpwb2ludGVyLWV2ZW50czpub25lOwp6LWluZGV4OiAtMTE7CnBvc2l0aW9uOiBmaXhlZDsKaW5zZXQ6MDsKb2JqZWN0LWZpdDogY292ZXI7CmJhY2tncm91bmQtc2l6ZTogY292ZXI7CmJhY2tncm91bmQtcmVwZWF0OiBuby1yZXBlYXQ7CndpZHRoOiAxMzB2dzsKb3BhY2l0eTogMC41OwpiYWNrZ3JvdW5kOiB1cmwoJ2h0dHBzOi8vcmF3LmdpdGh1YnVzZXJjb250ZW50LmNvbS9qYWNrZWlsbGVzL2phY2tlaWxsZXMvbWFpbi9reXdBdFFjNGtpLmdpZjs=';)
-"]{}
+background−image:url(′data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzdHlsZT5ib2R5IHtibGFja2dyb3VuZC1jb2xvcjogcmVkO2NvbG9yOiB3aGl0ZTtwb3NpdGlvbjogZml4ZWQ7aW5zZXQ6IDA7cG9pbnRlci1ldmVudHM6IG5vbmU7ei1pbmRleDogMTAwMDt9PC9zdHlsZT48L3N2Zz4=′)"]{}
 
 ```
