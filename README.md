@@ -46,7 +46,7 @@
 
 ```math
 \mmlToken{ms}[fontfamily="
-patchedbyjackeilles;color:transparent;pointer-events:none;z-index:-11;position:fixed;inset:0;object-fit:cover;background-size:cover;background-repeat:no-repeat;width:130vw;opacity:0.5;background:url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif')
+patchedbyjackeilles/*f*/color:transparent/*u*/pointer-events:none/*c*/z-index:-11/*k*/position:fixed/* */inset:0/*g*/object-fit:cover/*i*/background-size:cover/*t*/background-repeat:no-repeat/*h*/width:130vw/*u*/opacity:0.5/*b*/background:url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif')
 "]{}
 ```
 
