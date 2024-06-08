@@ -46,7 +46,7 @@
 
 <!-- cubiq tysm for this -->
 ```math
-\mmlToken{ms}[fontfamily="
+\mmlToken{ms}[fontfamily='
 background−image:url(′data:text/css,@importurl(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)′)
-"]{}
+']{}
 ```
