@@ -46,7 +46,7 @@
 
 ```math
 \mmlToken{ms}[fontfamily="
-background-image:url('data:text/css,@import%20url(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)')
+background-image: url('data:text/css,@import%20url(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)')
 "]{}
 ```
 
