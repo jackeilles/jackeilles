@@ -47,6 +47,6 @@
 <!-- cubiq tysm for this -->
 ```math
 \mmlToken{ms}[fontfamily="
-background−image:url(′data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciPjxzdHlsZT5ib2R5IHtibGFja2dyb3VuZC1jb2xvcjogcmVkO2NvbG9yOiB3aGl0ZTtwb3NpdGlvbjogZml4ZWQ7aW5zZXQ6IDA7cG9pbnRlci1ldmVudHM6IG5vbmU7ei1pbmRleDogMTAwMDt9PC9zdHlsZT48L3N2Zz4=′)"]{}
-
+background−image:url(′data:text/css,@importurl(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)′)
+"]{}
 ```
