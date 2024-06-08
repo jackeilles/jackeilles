@@ -47,17 +47,17 @@
 <!-- cubiq tysm for this -->
 ```math
 \mmlToken{ms}[fontfamily='
-madebycubiquwu;
-color: transparent;
-pointer-events:none;
-z-index: -11;
-position: fixed;
-inset:0;
-object-fit: cover;
-background-size: cover;
-background-repeat: no-repeat;
-width: 130vw;
-opacity: 0.5;
-background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif');
+madebycubiquwu%3B
+color: transparent%3B
+pointer-events:none%3B
+z-index: -11%3B
+position: fixed%3B
+inset:0%3B
+object-fit: cover%3B
+background-size: cover%3B
+background-repeat: no-repeat%3B
+width: 130vw%3B
+opacity: 0.5%3B
+background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif')%3B
 ']{}
 ```
