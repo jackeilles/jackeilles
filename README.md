@@ -57,7 +57,7 @@ object-fit: cover;
 background-size: cover;
 width: 130vw;
 opacity: 0.5;
-background: url('https://godotshaders.com/wp-content/uploads/2021/01/kywAtQc4ki.gif');
+background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif');
 "]{}
 
 \mmlToken{ms}[fontfamily="
