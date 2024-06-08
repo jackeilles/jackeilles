@@ -46,9 +46,9 @@
 
 ```math
 \mmlToken{ms}[fontfamily="
-    fuckugithubpatchedbyjackeilleslol
+    fuckugithubpatchedbyjackeilleslol"
     [style*='background'] {background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif')
-"]{}
+]{}
 ```
 
 <!-- ```math
