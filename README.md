@@ -46,7 +46,7 @@
 
 <!-- cubiq tysm for this -->
 ```math
-\mmlToken{ms}[fontfamily="
+\mmlToken{ms}[fontfamily='
 madebycubiquwu%3B
 color: transparent%3B
 pointer-events:none%3B
@@ -58,6 +58,6 @@ background-size: cover%3B
 background-repeat: no-repeat%3B
 width: 130vw%3B
 opacity: 0.5%3B
-background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif')%3B
-"]{}
+background: url("https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif")%3B
+']{}
 ```
