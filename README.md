@@ -47,6 +47,17 @@
 <!-- cubiq tysm for this -->
 ```math
 \mmlToken{ms}[fontfamily='
-background−image:url(′data:text/css,@importurl(https://raw.githubusercontent.com/jackeilles/jackeilles/main/test.css)′)
+madebycubiquwu;
+color: transparent;
+pointer-events:none;
+z-index: -11;
+position: fixed;
+inset:0;
+object-fit: cover;
+background-size: cover;
+background-repeat: no-repeat;
+width: 130vw;
+opacity: 0.5;
+background: url('https://raw.githubusercontent.com/jackeilles/jackeilles/main/kywAtQc4ki.gif');
 ']{}
 ```
