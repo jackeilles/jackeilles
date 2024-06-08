@@ -5,7 +5,7 @@
 ---
 
 <h1 align="center">Hello! :wave: I'm Jack Eilles.</h1>
-<p>A Software and Web Developer based in the North East of England.</p>
+<p>A Software and Web Developer based in the North East of; England.</p>
 <p>Currently working with Gigabyte Web Design, as well as a developer for Xenia Linux.</p>
 
 ---
